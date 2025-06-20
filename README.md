@@ -8,6 +8,10 @@ YouTalk is a Spring Boot-based web application that integrates Azure Speech SDK 
 - REST API for handling audio processing
 - JSON-based response output
 
+  
+## 📃 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 📂 Project Structure
 ```text
 .
